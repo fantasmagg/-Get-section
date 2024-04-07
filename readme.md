@@ -1,6 +1,6 @@
 ﻿# Descripcion
  Este programa lo que hace es obtener las secciones de los navegadores, 
- este programa esta hecho para cuando necesitemos mover las secciones
+ el programa esta hecho para cuando necesitemos mover las secciones
  de nuestros navegadores
 
 ## Pasos de ejecución
